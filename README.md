@@ -18,7 +18,6 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) \
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) \
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) \
-![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -27,4 +26,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DominikHerold&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DominikHerold&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="left">
+<a href="https://www.xing.com/profile/Dominik_Herold6/"><img src="https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white"/></a>
 </p>
